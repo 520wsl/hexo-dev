@@ -1,12 +1,3 @@
----
-title: 用hexo搭建博客
-categories:
-- 工具
-- 安装教程
-tags:
-- hexo
-- github
----
 # 一、安装NodeJS
 - [官网下载](https://nodejs.org/en/)
 
